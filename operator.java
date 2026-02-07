@@ -1,4 +1,4 @@
-public class operator
+public class swap
 {
     public static void main(String[] args)
     {
@@ -12,3 +12,4 @@ public class operator
         System.out.println(b);
     }
 }
+
